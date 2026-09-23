@@ -76,7 +76,7 @@ function Brand({ onClick }: { onClick?: () => void }) {
       </span>
       <span className="brand-wordmark">
         <strong>ALAN JANTSCH</strong>
-        <small>ADVOCACIA · OAB/RS 84.148</small>
+        <small>ADVOCACIA · OAB/SC 73.129</small>
       </span>
     </a>
   );
@@ -231,7 +231,7 @@ export default function App() {
               </div>
               <figcaption>
                 <strong>Dr. Alan Jantsch</strong>
-                <span>Advogado · OAB/RS 84.148</span>
+                <span>Advogado · OAB/SC 73.129</span>
               </figcaption>
             </figure>
           </div>
@@ -282,7 +282,7 @@ export default function App() {
               <img src="/images/alan-jantsch.jpg" alt="" width={563} height={563} loading="lazy" />
               <span>
                 <strong>O escritório</strong>
-                <small>Dr. Alan Jantsch · OAB/RS 84.148</small>
+                <small>Dr. Alan Jantsch · OAB/SC 73.129</small>
               </span>
             </figcaption>
           </figure>
@@ -292,14 +292,14 @@ export default function App() {
               <h2 id="about-title">A escuta é parte essencial de uma boa <em>orientação.</em></h2>
               <div className="about-divider" />
               <p>
-                Dr. Alan Jantsch é advogado inscrito na OAB/RS sob o nº 84.148, com atuação especializada em Direito Médico e da Saúde.
+                Dr. Alan Jantsch é advogado inscrito na OAB/SC 73.129, com atuação especializada em Direito Médico e da Saúde.
               </p>
               <p>
                 Seu trabalho parte de uma compreensão cuidadosa de cada contexto, aliando conhecimento jurídico, comunicação clara e atenção às pessoas envolvidas.
               </p>
               <div className="about-signature">
                 <span>Dr. Alan Jantsch</span>
-                <small>OAB/RS 84.148</small>
+                <small>OAB/SC 73.129</small>
               </div>
             </div>
           </div>
@@ -373,7 +373,7 @@ export default function App() {
         </div>
         <div className="shell footer-bottom">
           <span>© {new Date().getFullYear()} Dr. Alan Jantsch. Todos os direitos reservados.</span>
-          <span>OAB/RS 84.148 <ArrowRight size={13} strokeWidth={1.4} aria-hidden="true" /> Advocacia especializada</span>
+          <span>OAB/SC 73.129 <ArrowRight size={13} strokeWidth={1.4} aria-hidden="true" /> Advocacia especializada</span>
         </div>
       </footer>
     </>
